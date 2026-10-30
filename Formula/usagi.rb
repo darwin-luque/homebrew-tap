@@ -1,7 +1,6 @@
 class Usagi < Formula
   desc "Show the usage limits of your AI agent harnesses"
   homepage "https://github.com/darwin-luque/usagi"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
